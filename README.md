@@ -1,4 +1,3 @@
-# openNetVM-setup
-Just some issues I encountered while setting ![openNetVM](https://github.com/sdnfv/openNetVM) up and what worked for me.
+# onvm-qos  
 
-Check out the wiki!
+This repository was setup to document our exploration of openNetVM and track the code for integrating queue management into NFs for openNetVM. 
